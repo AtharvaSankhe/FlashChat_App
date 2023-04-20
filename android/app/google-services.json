@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240348529546",
+    "project_id": "flashchat-cf460",
+    "storage_bucket": "flashchat-cf460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240348529546:android:442198ded958d81c893e73",
+        "android_client_info": {
+          "package_name": "com.atharvasankhe.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240348529546-4lplem4efolslf8ospdg8m1gsnlr6kmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClxrVCroJheQXKBL3PZMfsi0N5PxPquFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240348529546-4lplem4efolslf8ospdg8m1gsnlr6kmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
